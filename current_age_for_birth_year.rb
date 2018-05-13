@@ -1,3 +1,3 @@
-current_age_for_birth_year(n):
-  return 2016 - n 
-  
+def current_age_for_birth_year(birth_year)
+  2003 - birth_year
+end
